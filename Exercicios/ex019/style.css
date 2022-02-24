@@ -1,0 +1,20 @@
+@charset "UTF-8";
+h1{
+    text-align: left;
+    color: rgb(17, 17, 82);
+}
+h2{
+    text-align: center;
+}
+h1#principal{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+p{
+    color: red;
+}
+.destaque{
+    color: blueviolet;
+}
